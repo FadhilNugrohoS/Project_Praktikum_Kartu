@@ -1,0 +1,3 @@
+	Jadi untuk project silahkan buka di Package Tugas
+kemudian jalankan program KartuPeminjam.dan silahkan tambahkan
+oop_1918033 sql
